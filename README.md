@@ -1,2 +1,4 @@
 # Property-Sales-Price-Prediction_Regularized_Linear_Regression
 To build a Regularized Linear Regression model with the given dataset, but before going in to it we need to check and calrify how this dataset behaves on Linear Regresion model. A Regularized Linera Regression model is considered when there is Overfitting on Linear Regression model.
+
+A Real Estate company has the data for all the properties in Ames City. They are planning to improve their business, for that, they want to find out what would be the best sales price for their newly purchased properties based on each property’s attributes. The dataset provided is consist of Property Sale Price along with parameters that are involved in Sales Price. The task is to train a model that can predict the sales price of property based on the given attributes. Basically, it’s a regression problem.
